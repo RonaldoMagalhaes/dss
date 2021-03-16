@@ -1,0 +1,54 @@
+.principal{
+
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;    
+    width: 900px;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.pool{
+    font-size: 3em;
+    text-align: center;
+    width: 900px;
+    padding: 15px;
+    background-image: 
+    
+}
+
+.main{
+    margin: auto;
+    background-color: #e2dada;
+    width: 900px;
+}
+
+.dds{
+    font-size: 1.5em;
+    text-align: left;
+    width: 900px;
+    padding: 15px;
+}
+
+.fot{
+    margin-left: 50px;
+}
+
+.fotos{
+
+   
+   transition:2s;
+}
+
+.fotos:hover{
+    transform: scale(1.5) ;
+}
+
+button{
+    padding: 10px;
+    margin-left: 400px;
+    margin-bottom: 20px;
+    background-color: aqua;
+    cursor: pointer;
+}
+
